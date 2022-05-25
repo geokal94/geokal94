@@ -21,7 +21,7 @@
 I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Greece.
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
-- :seedling: Exploring Blockchain development.
+- :seedling: Exploring Full Stack development.
 
 - :zap: In my free time, I build new projects, read tech articles and non tech books.
 
